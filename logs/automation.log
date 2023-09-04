@@ -236,3 +236,11 @@
 20:54:30.877 [TestNG-tests-1] INFO  testCases.AccountRegTest - Account & register clicked
 20:54:32.410 [TestNG-tests-1] INFO  testCases.AccountRegTest - Personal setails fillup
 20:54:35.068 [TestNG-tests-1] INFO  testCases.AccountRegTest -  all done
+15:59:02.752 [TestNG-tests-1] INFO  testCases.AccountRegTest - Test case starting
+15:59:02.762 [TestNG-tests-1] INFO  testCases.AccountRegTest - Account & register clicked
+15:59:04.408 [TestNG-tests-1] INFO  testCases.AccountRegTest - Personal setails fillup
+15:59:07.886 [TestNG-tests-1] INFO  testCases.AccountRegTest -  all done
+16:31:06.449 [TestNG-tests-1] INFO  testCases.AccountRegTest - Test case starting
+16:31:06.461 [TestNG-tests-1] INFO  testCases.AccountRegTest - Account & register clicked
+16:31:08.177 [TestNG-tests-1] INFO  testCases.AccountRegTest - Personal setails fillup
+16:31:11.813 [TestNG-tests-1] INFO  testCases.AccountRegTest -  all done
